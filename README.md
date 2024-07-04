@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ccoVeille/ccoVeille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi everyone,
+
+I'm Christophe, smiling person, father of two, Husband, Senior Developer/Architect (in that exact order, it's important)
+
+I'm interested in Go, fish shell, TDD, golangci-lint, typos seeker.
+
+Compulsive code reviewer. 🕵️‍♂️
+
+🔭 I'm currently working on a new project [jargonLint](https://github.com/jargonLint/jargonLint)
