@@ -22,3 +22,6 @@ I'm interested in Go, fish shell, TDD, golangci-lint, typos seeker.
 Compulsive code reviewer. 🕵️‍♂️
 
 🔭 I'm currently working on a new project [jargonLint](https://github.com/jargonLint/jargonLint)
+
+🔧 My forks are here [https://github.com/ccoveille-forks](https://github.com/orgs/ccoveille-forks/repositories)
+I moved them with [github-forks-sanitizer](https://github.com/ccoVeille/github-forks-sanitizer)
